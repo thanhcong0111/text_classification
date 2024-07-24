@@ -37,8 +37,6 @@ By using the Streamlit library, this website allows you to use it as a tool to c
 
 Paste a paragraph of an article that you need to classify in the left area, press `Predict` button and the result will be displayed in the right area.
 
-![Screenshot 2024-07-24 204629](https://github.com/user-attachments/assets/a93de1ca-6bfc-4018-83ed-bfa543e39f21)
-
 ![snapedit_1721828995359](https://github.com/user-attachments/assets/76364e53-abfa-462e-9bde-488d72e05ff5)
 
 Thanks to Dao Thi Ngoc Giau - my friend assisted me in finishing this assignment.
