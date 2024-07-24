@@ -12,6 +12,8 @@ Text classification is one of the fundamental tasks in natural language processi
 
 Data is in CSV format and has two columns: text and category. It contains 2226 different texts, each labeled under one in 5 categories: entertainment, sport, tech, business, and politics.
 
+![Picture2](https://github.com/user-attachments/assets/5a8e4488-2e73-4304-b0f7-571dae962770)
+
 ### How do I partition data to train, validate, and test?
 
 Divide the dataset into 3 parts:
