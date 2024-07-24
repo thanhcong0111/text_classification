@@ -23,6 +23,8 @@ Divide the dataset into 3 parts:
 - df_val: validation set, which contains the next 10% of the data
 - df_test: test set, which contains the remaining 10% of the data
 
+![Screenshot 2024-07-24 204357](https://github.com/user-attachments/assets/498b1b1e-31ad-4945-bf34-a4703261cbeb)
+
 ### Accuracy
 
 The model has an accuracy of around 91%.
