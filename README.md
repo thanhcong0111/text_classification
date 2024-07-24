@@ -29,6 +29,8 @@ Divide the dataset into 3 parts:
 
 The model has an accuracy of around 91%.
 
+![Screenshot 2024-07-24 204506](https://github.com/user-attachments/assets/799c7d26-301e-428d-a89d-ef7d1bcafdc0)
+
 ### Deploy the model on the website
 
 By using the Streamlit library, this website allows you to use it as a tool to classify texts into one of five categories: entertainment, sport, tech, business, and politics.
