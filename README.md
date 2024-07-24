@@ -39,6 +39,8 @@ Paste a paragraph of an article that you need to classify in the left area, pres
 
 ![Screenshot 2024-07-24 204629](https://github.com/user-attachments/assets/a93de1ca-6bfc-4018-83ed-bfa543e39f21)
 
+![Uploading snapedit_1721828995359.jpeg…]()
+
 Thanks to Dao Thi Ngoc Giau - my friend assisted me in finishing this assignment.
 
 For more information, you can also read the report (Vietnamese version) to understand this session.
