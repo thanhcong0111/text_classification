@@ -33,7 +33,7 @@ The model has an accuracy of around 91%.
 
 ### Deploy the model on the website
 
-By using the Streamlit library, this website allows you to use it as a tool to classify texts into one of five categories: entertainment, sport, tech, business, and politics.
+By using the model trained, this website allows you to use it as a tool to classify texts into one of five categories: entertainment, sport, tech, business, and politics.
 
 Paste a paragraph of an article that you need to classify in the left area, press `Predict` button and the result will be displayed in the right area.
 
