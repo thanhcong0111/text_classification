@@ -39,6 +39,6 @@ Paste a paragraph of an article that you need to classify in the left area, pres
 
 ![snapedit_1721828995359](https://github.com/user-attachments/assets/76364e53-abfa-462e-9bde-488d72e05ff5)
 
-Thanks to Dao Thi Ngoc Giau - my friend assisted me in finishing this assignment.
+Thanks to [Dao Thi Ngoc Giau](https://github.com/Giau39) - my friend assisted me in finishing this assignment.
 
 For more information, you can also read the report (Vietnamese version) to understand this session.
